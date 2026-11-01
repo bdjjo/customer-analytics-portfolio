@@ -1,0 +1,12 @@
+{
+  "holdout_orders": 1687,
+  "holdout_returns": 105,
+  "prevalence": 0.06224066390041494,
+  "average_precision": 0.11397468590374203,
+  "roc_auc": 0.6406959243874542,
+  "brier": 0.05741021987066135,
+  "top_10_percent_count": 169,
+  "precision_at_top_10_percent": 0.15384615384615385,
+  "recall_at_top_10_percent": 0.24761904761904763,
+  "baseline_precision": 0.06224066390041494
+}
